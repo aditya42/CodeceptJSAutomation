@@ -1,0 +1,25 @@
+{
+  "name": "nodeprojects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^26.0.1",
+    "codeceptjs": "^4.0.8",
+    "playwright": "^1.61.1",
+    "tsx": "^4.22.4",
+    "typescript": "^6.0.3",
+    "webdriver": "^9.29.1"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^4.0.2",
+    "ai": "^7.0.4"
+  }
+}
